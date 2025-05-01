@@ -15,6 +15,11 @@ Number of order by Priority,
 Shipments by Priority and
 Average revenue across years 
 
+PROJECT INSIGHT
+Shipment date for Total orders over the years decreses,
+Total Revenue by offline sales is more than online sales,
+Total No.of orders over the year decreases and
+Average Revenue across the years decreses
 
 
 
